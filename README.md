@@ -1,5 +1,7 @@
 ## local-collection
 
+This is very much a work in progress. Things may not work as expected and there is still quite a lot to do!
+
 This is a set of tools and scripts to make the process of creating a local copy of the Cooper Hewitt collection data a little easier.
 
 To make use of this repository do the following:
