@@ -33,3 +33,4 @@ To run the API:
 
 Then to try it go to http://127.0.0.1:5000/objects/152749803
 
+You can also get the "b" resolution image like http://127.0.0.1:5000/objects/image/152749803
